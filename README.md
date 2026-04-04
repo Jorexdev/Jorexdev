@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="header.svg" alt="Buenas, soy Jorex" />
+  <img src="hero.svg" alt="Hola, soy Jorex" />
 </div>
 
 <div align="center">
