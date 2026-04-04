@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/jorex.dev"><img src="img/social-instagram.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@jorex.dev"><img src="img/social-youtube.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/"><img src="img/social-discord.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Jorexbp"><img src="img/social-github.svg" width="45" height="45"/></a>
+  <a href="https://instagram.com/jorex.dev"><img src="img/social-instagram-v2.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@jorex.dev"><img src="img/social-youtube-v2.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok-v2.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/"><img src="img/social-discord-v2.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin-v2.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Jorexbp"><img src="img/social-github-v2.svg" width="45" height="45"/></a>
 </div>
 
 <br/>
