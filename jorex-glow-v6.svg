@@ -11,42 +11,28 @@
     </filter>
   </defs>
 
-  <!-- "Hola, soy " fade in -->
-  <text
-    x="435" y="68"
-    font-family="'DM Sans', sans-serif"
-    font-size="46"
-    font-weight="700"
-    fill="#ffffff"
-    opacity="0"
-    text-anchor="end"
-  >Hola, soy
-    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
-  </text>
-
-  <!-- "Jorex" con glow fade in -->
+  <!-- "Hola, soy Jorex" centrado -->
   <text
     x="450" y="68"
     font-family="'DM Sans', sans-serif"
     font-size="46"
     font-weight="700"
-    fill="#A3B067"
-    filter="url(#glow)"
+    text-anchor="middle"
     opacity="0"
-    text-anchor="start"
-  >Jorex
+  >
+    <tspan fill="#ffffff">Hola, soy </tspan><tspan fill="#A3B067" filter="url(#glow)">Jorex</tspan>
     <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
   </text>
 
-  <!-- tag fade in -->
+  <!-- tag centrado -->
   <text
-    x="200" y="106"
+    x="450" y="106"
     font-family="'DM Mono', monospace"
     font-size="13"
     fill="#A3B067"
     letter-spacing="2"
+    text-anchor="middle"
     opacity="0"
-    text-anchor="start"
   >// software analyst · divulgador · speaker
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
   </text>
