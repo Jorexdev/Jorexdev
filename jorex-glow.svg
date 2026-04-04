@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80">
+  <foreignObject width="400" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+        .jorex {
+          font-family: 'DM Sans', sans-serif;
+          font-size: 52px;
+          font-weight: 700;
+          color: #A3B067;
+          text-align: center;
+          line-height: 80px;
+          animation: glowPulse 2.4s ease-in-out infinite;
+        }
+        @keyframes glowPulse {
+          0%, 100% {
+            text-shadow:
+              0 0 6px rgba(163,176,103,0.5),
+              0 0 14px rgba(163,176,103,0.3);
+          }
+          50% {
+            text-shadow:
+              0 0 10px rgba(163,176,103,1),
+              0 0 28px rgba(163,176,103,0.8),
+              0 0 55px rgba(163,176,103,0.4);
+          }
+        }
+      </style>
+      <div class="jorex">Jorex</div>
+    </div>
+  </foreignObject>
+</svg>
