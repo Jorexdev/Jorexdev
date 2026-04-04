@@ -11,16 +11,30 @@
     </filter>
   </defs>
 
-  <!-- "Hola, soy Jorex" centrado -->
+  <!-- "Hola, soy " -->
   <text
-    x="450" y="68"
+    x="493" y="68"
     font-family="'DM Sans', sans-serif"
     font-size="46"
     font-weight="700"
-    text-anchor="middle"
+    fill="#ffffff"
+    text-anchor="end"
     opacity="0"
-  >
-    <tspan fill="#ffffff">Hola, soy </tspan><tspan fill="#A3B067" filter="url(#glow)">Jorex</tspan>
+  >Hola, soy
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- "Jorex" con glow -->
+  <text
+    x="508" y="68"
+    font-family="'DM Sans', sans-serif"
+    font-size="46"
+    font-weight="700"
+    fill="#A3B067"
+    filter="url(#glow)"
+    text-anchor="start"
+    opacity="0"
+  >Jorex
     <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
   </text>
 
