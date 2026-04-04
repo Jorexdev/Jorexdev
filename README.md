@@ -11,8 +11,8 @@
   <a href="https://youtube.com/@jorexdev"><img src="img/social-youtube-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok-v15.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/zsZqS7wxXU"><img src="img/social-discord-v8.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Jorexdev"><img src="img/social-github-v6.svg" width="45" height="45"/></a>
+  <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin-v7.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Jorexdev"><img src="img/social-github-v7.svg" width="45" height="45"/></a>
 </div>
 
 <br/>
