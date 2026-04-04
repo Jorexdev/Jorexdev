@@ -1,32 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80">
-  <foreignObject width="400" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130">
+  <foreignObject width="900" height="130">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
-        .jorex {
+        @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400&family=DM+Sans:wght@700&display=swap');
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .wrap {
+          width: 900px;
+          height: 130px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 8px;
+          animation: fadeIn 1.2s ease both;
+        }
+        .heading {
           font-family: 'DM Sans', sans-serif;
-          font-size: 52px;
+          font-size: 46px;
           font-weight: 700;
+          color: #ffffff;
+        }
+        .heading .accent {
           color: #A3B067;
-          text-align: center;
-          line-height: 80px;
-          animation: glowPulse 2.4s ease-in-out infinite;
+          animation: glowPulse 2.4s ease-in-out 1.2s infinite;
+        }
+        .tag {
+          font-family: 'DM Mono', monospace;
+          font-size: 13px;
+          color: #A3B067;
+          letter-spacing: 0.12em;
+          animation: fadeIn 1.2s ease 0.5s both;
+        }
+        @keyframes fadeIn {
+          from { opacity: 0; }
+          to   { opacity: 1; }
         }
         @keyframes glowPulse {
-          0%, 100% {
-            text-shadow:
-              0 0 6px rgba(163,176,103,0.5),
-              0 0 14px rgba(163,176,103,0.3);
-          }
-          50% {
-            text-shadow:
-              0 0 10px rgba(163,176,103,1),
-              0 0 28px rgba(163,176,103,0.8),
-              0 0 55px rgba(163,176,103,0.4);
-          }
+          0%, 100% { text-shadow: 0 0 6px rgba(163,176,103,0.5), 0 0 14px rgba(163,176,103,0.3); }
+          50%       { text-shadow: 0 0 10px rgba(163,176,103,1), 0 0 28px rgba(163,176,103,0.8), 0 0 55px rgba(163,176,103,0.4); }
         }
       </style>
-      <div class="jorex">Jorex</div>
+      <div class="wrap">
+        <span class="heading">Hola, soy <span class="accent">Jorex</span></span>
+        <span class="tag">// software analyst · divulgador · speaker</span>
+      </div>
     </div>
   </foreignObject>
 </svg>
