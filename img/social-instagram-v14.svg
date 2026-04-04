@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="50" height="50">
+  <defs>
+    <linearGradient id="ig" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#fcaf45"/>
+      <stop offset="25%"  stop-color="#f77737"/>
+      <stop offset="50%"  stop-color="#fd1d1d"/>
+      <stop offset="75%"  stop-color="#c13584"/>
+      <stop offset="100%" stop-color="#405de6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="2;6;2" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 2 0" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#glow)">
+    <rect x="14" y="14" width="72" height="72" rx="18" ry="18" fill="none" stroke="url(#ig)" stroke-width="6"/>
+    <circle cx="50" cy="50" r="17" fill="none" stroke="url(#ig)" stroke-width="6"/>
+    <circle cx="74" cy="27" r="5" fill="url(#ig)"/>
+  </g>
+</svg>
