@@ -2,9 +2,9 @@
   <defs>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur">
-        <animate attributeName="stdDeviation" values="0.3;1.2;0.3" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="stdDeviation" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/>
       </feGaussianBlur>
-      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 0.941  0 0 0 0 0.965  0 0 0 0 0.988  0 0 0 0.9 0" result="coloredBlur"/>
+      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 0.941  0 0 0 0 0.965  0 0 0 0 0.988  0 0 0 0.7 0" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
