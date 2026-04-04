@@ -40,13 +40,13 @@
 
   <!-- tag fade in -->
   <text
-    x="450" y="106"
+    x="200" y="106"
     font-family="'DM Mono', monospace"
     font-size="13"
     fill="#A3B067"
     letter-spacing="2"
     opacity="0"
-    text-anchor="middle"
+    text-anchor="start"
   >// software analyst · divulgador · speaker
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
   </text>
