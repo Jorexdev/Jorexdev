@@ -4,10 +4,27 @@
     .tag { font-family: 'DM Mono', monospace; font-size: 13px; fill: #A3B067; letter-spacing: 0.12em; }
     .normal { font-family: 'DM Sans', sans-serif; font-size: 46px; font-weight: 700; fill: #E8EDD4; }
     .accent { font-family: 'DM Sans', sans-serif; font-size: 46px; font-weight: 700; fill: #A3B067; }
+
+    .fadein { animation: fadeIn 1.2s ease forwards; opacity: 0; }
+    .fadein-slow { animation: fadeIn 1.8s ease 0.4s forwards; opacity: 0; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .glow {
+      animation: glowPulse 2.4s ease-in-out infinite;
+    }
+
+    @keyframes glowPulse {
+      0%, 100% { filter: drop-shadow(0 0 4px rgba(163,176,103,0.5)) drop-shadow(0 0 10px rgba(163,176,103,0.3)); }
+      50%       { filter: drop-shadow(0 0 10px rgba(163,176,103,1)) drop-shadow(0 0 24px rgba(163,176,103,0.7)) drop-shadow(0 0 40px rgba(163,176,103,0.3)); }
+    }
   </style>
   <rect width="900" height="130" fill="#0f1a0e"/>
-  <text x="450" y="42" text-anchor="middle" class="tag">// software analyst · divulgador · speaker</text>
-  <text x="450" y="100" text-anchor="middle">
-    <tspan class="normal">Hola, soy </tspan><tspan class="accent">Jorex</tspan>
+  <text x="450" y="52" text-anchor="middle" class="fadein">
+    <tspan class="normal">Hola, soy </tspan><tspan class="accent glow">Jorex</tspan>
   </text>
+  <text x="450" y="100" text-anchor="middle" class="tag fadein-slow">// software analyst · divulgador · speaker</text>
 </svg>
