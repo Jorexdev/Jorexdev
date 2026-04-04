@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/jorex.dev"><img src="img/social-instagram-v8.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jorex.dev"><img src="img/social-instagram-v9.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://youtube.com/@jorex.dev"><img src="img/social-youtube-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok-v8.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok-v9.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/"><img src="img/social-discord-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Jorexbp"><img src="img/social-github-v6.svg" width="45" height="45"/></a>
