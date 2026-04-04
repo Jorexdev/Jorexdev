@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="50" height="50">
   <defs>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur">
-        <animate attributeName="stdDeviation" values="0.5;2;0.5" dur="2.4s" repeatCount="indefinite"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur">
+        <animate attributeName="stdDeviation" values="1;4;1" dur="2.4s" repeatCount="indefinite"/>
       </feGaussianBlur>
-      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 1  0 0 0 0 0.412  0 0 0 0 0.706  0 0 0 0.9 0" result="coloredBlur"/>
+      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 1  0 0 0 0 0.27  0 0 0 0 0.57  0 0 0 1.2 0" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
