@@ -1,39 +1,14 @@
-<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=DM+Sans:wght@400;700&amp;display=swap');
-    .tag {
-      font-family: 'DM Mono', monospace;
-      font-size: 13px;
-      fill: #A3B067;
-      letter-spacing: 0.12em;
-      animation: fadeIn 1.2s ease 0.5s both;
-    }
-    .normal {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 46px;
-      font-weight: 700;
-      fill: #ffffff;
-      animation: fadeIn 1.2s ease both;
-    }
-    .accent {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 46px;
-      font-weight: 700;
-      fill: #A3B067;
-      animation: fadeIn 1.2s ease both, glowPulse 2.4s ease-in-out 1.2s infinite;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to   { opacity: 1; }
-    }
-    @keyframes glowPulse {
-      0%, 100% { filter: drop-shadow(0 0 4px rgba(163,176,103,0.5)) drop-shadow(0 0 8px rgba(163,176,103,0.3)); }
-      50%       { filter: drop-shadow(0 0 12px rgba(163,176,103,1)) drop-shadow(0 0 28px rgba(163,176,103,0.7)) drop-shadow(0 0 50px rgba(163,176,103,0.3)); }
-    }
-  </style>
-  <rect width="900" height="130" fill="transparent"/>
-  <text x="450" y="52" text-anchor="middle">
-    <tspan class="normal">Hola, soy </tspan><tspan class="accent">Jorex</tspan>
-  </text>
-  <text x="450" y="100" text-anchor="middle" class="tag">// software analyst · divulgador · speaker</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur" />
+      <feFlood flood-color="rgba(255, 255, 0, 0.8)" result="glowColor" />
+      <feComposite in2="blur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="10" y="40" font-family="Arial" font-size="35" fill="black" filter="url(#glow)">Jorex</text>
 </svg>
