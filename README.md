@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=120&section=header" />
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=120&section=header" /></a>
 </div>
 
 <div align="center">
-  <img src="img/jorex-glow-v7.svg" alt="Hola, soy Jorex" />
+  <a href="#"><img src="img/jorex-glow-v7.svg" alt="Hola, soy Jorex" /></a>
 </div>
 
 <div align="center">
@@ -18,5 +18,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=80&section=footer" />
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=80&section=footer" /></a>
 </div>
