@@ -18,6 +18,12 @@
 <br/>
 
 <div align="center">
+  <a href="#"><img src="img/separator-v1.svg" alt="" /></a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="#"><img src="img/recursos-v1.svg" alt="Aprende backend GRATIS" /></a>
 </div>
 
