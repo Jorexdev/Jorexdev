@@ -8,10 +8,10 @@
       <stop offset="100%" stop-color="#405de6"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur">
-        <animate attributeName="stdDeviation" values="2;6;2" dur="2.4s" repeatCount="indefinite"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur">
+        <animate attributeName="stdDeviation" values="1;3;1" dur="2.4s" repeatCount="indefinite"/>
       </feGaussianBlur>
-      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 2 0" result="coloredBlur"/>
+      <feColorMatrix type="matrix" in="blur" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 1.2 0" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
