@@ -13,27 +13,27 @@
 
   <!-- "Hola, soy " fade in -->
   <text
-    x="310" y="68"
+    x="447" y="68"
     font-family="'DM Sans', sans-serif"
     font-size="46"
     font-weight="700"
     fill="#ffffff"
     opacity="0"
-    text-anchor="middle"
+    text-anchor="end"
   >Hola, soy
     <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
   </text>
 
   <!-- "Jorex" con glow fade in -->
   <text
-    x="640" y="68"
+    x="453" y="68"
     font-family="'DM Sans', sans-serif"
     font-size="46"
     font-weight="700"
     fill="#A3B067"
     filter="url(#glow)"
     opacity="0"
-    text-anchor="middle"
+    text-anchor="start"
   >Jorex
     <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
   </text>
