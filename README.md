@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/jorex.dev"><img src="img/social-instagram-v16.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@jorexdev"><img src="img/social-youtube-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@jorex.dev"><img src="img/social-tiktok-v15.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/zsZqS7wxXU"><img src="img/social-discord-v8.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jorge-barba-polan"><img src="img/social-linkedin-v7.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Jorexdev"><img src="img/social-github-v7.svg" width="45" height="45"/></a>
+  <a href="https://instagram.com/jorex.dev" target="_blank" rel="noopener noreferrer"><img src="img/social-instagram-v16.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@jorexdev" target="_blank" rel="noopener noreferrer"><img src="img/social-youtube-v6.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@jorex.dev" target="_blank" rel="noopener noreferrer"><img src="img/social-tiktok-v15.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/zsZqS7wxXU" target="_blank" rel="noopener noreferrer"><img src="img/social-discord-v8.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jorge-barba-polan" target="_blank" rel="noopener noreferrer"><img src="img/social-linkedin-v7.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Jorexdev" target="_blank" rel="noopener noreferrer"><img src="img/social-github-v7.svg" width="45" height="45"/></a>
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://jorex.dev/cursos/"><img src="img/btn-recursos-v5.svg" alt="Ver Recursos" /></a>
+  <a href="https://jorex.dev/cursos/" target="_blank" rel="noopener noreferrer"><img src="img/btn-recursos-v5.svg" alt="Ver Recursos" /></a>
 </div>
 
 <br/>
