@@ -27,6 +27,10 @@
   <a href="#"><img src="img/recursos-v2.svg" alt="Aprende backend GRATIS" /></a>
 </div>
 
+<div align="center">
+  <a href="https://jorex.dev/cursos/"><img src="img/btn-recursos-v1.svg" alt="Ver Recursos" /></a>
+</div>
+
 <br/>
 
 <div align="center">

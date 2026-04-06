@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="44" viewBox="0 0 200 44">
+  <defs>
+    <filter id="glow-btn" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="198" height="42" rx="21" ry="21" fill="none" stroke="#A3B067" stroke-width="1.5" filter="url(#glow-btn)"/>
+  <text x="100" y="28" font-family="'DM Sans', sans-serif" font-size="15" font-weight="600" fill="#A3B067" text-anchor="middle" letter-spacing="0.5">Ver Recursos →</text>
+</svg>
