@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="32" viewBox="0 0 900 32">
+  <defs>
+    <filter id="gs" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="130" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="162" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="194" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.16s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="226" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="258" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.32s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="290" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="322" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.48s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="354" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.56s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="386" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.64s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="418" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.72s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="450" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="482" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.88s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="514" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="0.96s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="546" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.04s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="578" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="610" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="642" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.28s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="674" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.36s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="706" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.44s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="738" y="22" font-family="'DM Mono', monospace" font-size="13" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" fill="#A3B067" filter="url(#gs)">====
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.6s" begin="1.52s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+</svg>
