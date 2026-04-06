@@ -45,6 +45,12 @@
   <a href="#"><img src="img/comunidad-v1.svg" alt="Únete a Bytes Colaborativos" /></a>
 </div>
 
+<div align="center">
+  <p>Encuentra tu próximo trabajo tech a través de proyectos reales.<br/>
+  Conectamos empresas con talento emergente — aprende, trabaja en equipo y crece.<br/>
+  <sub><code>// foros de Java · QA Automation · búsqueda de talento</code></sub></p>
+</div>
+
 <br/>
 
 <div align="center">
