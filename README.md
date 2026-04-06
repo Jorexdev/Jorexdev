@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <a href="#"><img src="img/separator-v2.svg" alt="" /></a>
+  <a href="#"><img src="img/separator-v3.svg" alt="" /></a>
 </div>
 
 <br/>
