@@ -46,8 +46,7 @@
 </div>
 
 <div align="center">
-  <h3><strong>Encuentra tu próximo trabajo tech a través de proyectos reales.<br/>
-  Conectamos empresas con talento emergente — aprende, trabaja en equipo y crece.</strong></h3>
+  <a href="#"><img src="img/desc-comunidad-v1.svg" alt="descripción Bytes Colaborativos" /></a>
 </div>
 
 <br/>
