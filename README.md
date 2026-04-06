@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="img/desc-comunidad-v9.svg" alt="descripción Bytes Colaborativos" /></a>
+  <a href="#"><img src="img/desc-comunidad-v10.svg" alt="descripción Bytes Colaborativos" /></a>
 </div>
 
 <br/>

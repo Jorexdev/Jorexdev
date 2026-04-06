@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <defs>
+    <filter id="glow-tw" x="-30%" y="-120%" width="160%" height="340%">
+      <feGaussianBlur in="SourceGraphic" result="blur">
+        <animate attributeName="stdDeviation" values="1.5;5;1.5" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="438" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" fill="#CCCCCC" text-anchor="end">Encuentra tu próximo </text>
+  <g filter="url(#glow-tw)">
+    <text x="450.0" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">t
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="458.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">r
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.07s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="468.0" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">a
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.14s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="479.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">b
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.21s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="491.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">a
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.28s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="503.0" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">j
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="510.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">o
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.42s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="522.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start"> 
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.49s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="529.0" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">t
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.56s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="537.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">e
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.63s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="548.5" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">c
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+    <text x="559.0" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" text-anchor="start">h
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" begin="0.77s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+  </g>
+  <text x="578" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" fill="#CCCCCC" text-anchor="start"> a través de proyectos.</text>
+  <text x="450" y="62" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" fill="#CCCCCC" text-anchor="middle">Conectamos empresas con talento, aprende, trabaja en equipo.</text>
+</svg>
