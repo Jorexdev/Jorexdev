@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <defs>
+    <filter id="glow-tw" x="-50%" y="-120%" width="200%" height="340%">
+      <feGaussianBlur in="SourceGraphic" result="blur">
+        <animate attributeName="stdDeviation" values="1.5;5;1.5" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="450" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" fill="#CCCCCC" text-anchor="middle">Encuentra tu próximo <tspan fill-opacity="0">trabajo tech</tspan> a través de proyectos.</text>
+  <text x="440" y="26" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#A3B067" filter="url(#glow-tw)" text-anchor="middle">trabajo tech
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+  </text>
+  <text x="450" y="62" font-family="'DM Sans', sans-serif" font-size="17" font-weight="700" fill="#CCCCCC" text-anchor="middle">Conectamos empresas con talento, aprende, trabaja en equipo.</text>
+</svg>
