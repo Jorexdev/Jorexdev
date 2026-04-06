@@ -2,11 +2,6 @@
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=120&section=header" /></a>
 </div>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="30" valign="top"><img src="img/side-left-v1.svg" width="30" height="900"/></td>
-<td align="center" valign="top">
-
 <div align="center">
   <a href="#"><img src="img/jorex-glow-v7.svg" alt="Hola, soy Jorex" /></a>
 </div>
@@ -61,11 +56,6 @@
 </div>
 
 <br/>
-
-</td>
-<td width="30" valign="top"><img src="img/side-right-v1.svg" width="30" height="900"/></td>
-</tr>
-</table>
 
 <div align="center">
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=80&section=footer" /></a>
