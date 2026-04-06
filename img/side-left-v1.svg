@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="900" viewBox="0 0 30 900">
+  <defs>
+    <filter id="gl" x="-100%" y="-5%" width="300%" height="110%">
+      <feGaussianBlur in="SourceGraphic" result="blur">
+        <animate attributeName="stdDeviation" values="3;7;3" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0,0 L22,0 C22,75 8,75 8,150 C8,225 22,225 22,300 C22,375 8,375 8,450 C8,525 22,525 22,600 C22,675 8,675 8,750 C8,825 22,825 22,900 L0,900 Z" fill="#A3B067" filter="url(#gl)"/>
+</svg>
