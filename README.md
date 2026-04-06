@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-
+<br/><br/>
 <div align="center">
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=80&section=footer" /></a>
 </div>
