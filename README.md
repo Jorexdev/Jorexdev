@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <a href="https://jorex.dev/cursos/"><img src="img/btn-recursos-v1.svg" alt="Ver Recursos" /></a>
+  <a href="https://jorex.dev/cursos/"><img src="img/btn-recursos-v2.svg" alt="Ver Recursos" /></a>
 </div>
 
 <br/>
