@@ -52,5 +52,11 @@
 <br/>
 
 <div align="center">
+  <a href="https://discord.gg/zsZqS7wxXU" target="_blank" rel="noopener noreferrer"><img src="img/btn-unirse-v1.svg" alt="Unirse" /></a>
+</div>
+
+<br/>
+
+<div align="center">
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=A3B067&height=80&section=footer" /></a>
 </div>
