@@ -1,0 +1,39 @@
+# Regenera la portada (README.md + img/) con portada/generar.py:
+# último reel del canal de YouTube y número de The Weekly Fork.
+name: portada
+
+on:
+  schedule:
+    - cron: "23 */4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["portada/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: portada
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python portada/generar.py
+      - name: Commit si ha cambiado algo
+        run: |
+          git add -A README.md img portada
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git config user.name "jorex"
+          git config user.email "jorgebp2004@gmail.com"
+          git commit -m "Portada: último reel y newsletter al día"
+          git push
