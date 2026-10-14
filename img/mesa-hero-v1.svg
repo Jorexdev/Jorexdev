@@ -4,7 +4,7 @@
 <clipPath id="card"><rect x="115" y="135" width="230" height="315" rx="16"/></clipPath></defs>
 <rect width="840" height="480" rx="22" fill="#0a1208"/>
 <rect width="840" height="480" rx="22" fill="url(#spot)"><animate attributeName="opacity" values=".7;1;.7" dur="7s" repeatCount="indefinite"/></rect>
-<rect width="840" height="480" rx="22" filter="url(#noise)"/>
+<clipPath id="heroclip"><rect width="840" height="480" rx="22"/></clipPath><rect width="840" height="480" filter="url(#noise)" clip-path="url(#heroclip)"/>
 <g>
   <animateTransform attributeName="transform" type="rotate" values="-2.5 230 0;2.5 230 0;-2.5 230 0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
   <path id="strapR" d="M285 -12 L240 122" stroke="#4d5a2c" stroke-width="20"/>
