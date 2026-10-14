@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jorexdev/java-prep"><img src="img/mesa-javaprep-v1.svg" alt="java-prep: 40 módulos para preparar tu entrevista técnica de backend en Java"/></a><a href="https://discord.gg/zsZqS7wxXU"><img src="img/mesa-bytes-v1.svg" alt="Bytes Colaborativos: proyectos reales en equipo, empresas buscando talento"/></a><a href="https://jorex.dev/#newsletter"><img src="img/mesa-fork-v1.svg" alt="The Weekly Fork: newsletter semanal de desarrollo"/></a>
+  <a href="https://github.com/Jorexdev/java-prep"><img src="img/mesa-javaprep-v2.svg" alt="java-prep: 40 módulos para preparar tu entrevista técnica de backend en Java"/></a><a href="https://discord.gg/zsZqS7wxXU"><img src="img/mesa-bytes-v2.svg" alt="Bytes Colaborativos: proyectos reales en equipo, empresas buscando talento"/></a><a href="https://jorex.dev/#newsletter"><img src="img/mesa-fork-v2.svg" alt="The Weekly Fork: newsletter semanal de desarrollo"/></a>
 </p>
 
 <p align="center">
