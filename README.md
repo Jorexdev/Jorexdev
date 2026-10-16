@@ -1,14 +1,14 @@
 <!-- Generado con portada/generar.py: no editar a mano. -->
 <p align="center">
-  <a href="https://jorex.dev/"><picture><source media="(max-width: 600px)" srcset="img/mesa-hero-movil-e480aa37.svg"><img src="img/mesa-hero-95ec75a6.svg" width="100%" alt="Hola, soy Jorex. Software analyst, divulgador y speaker. Explico backend en Instagram, TikTok y YouTube y llevo Bytes Colaborativos. Aprende backend gratis en jorex.dev"/></picture></a>
+  <a href="https://jorex.dev/"><picture><source media="(max-width: 600px)" srcset="img/mesa-hero-movil-bc1459cd.svg"><img src="img/mesa-hero-b74374ed.svg" width="100%" alt="Hola, soy Jorex. Software analyst, divulgador y speaker. Explico backend en Instagram, TikTok y YouTube y llevo Bytes Colaborativos. Aprende backend gratis en jorex.dev"/></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jorexdev/java-prep"><img src="img/mesa-javaprep-5aa4e3b4.svg" alt="java-prep: 40 módulos para preparar tu entrevista técnica de backend en Java"/></a><a href="https://discord.gg/zsZqS7wxXU"><img src="img/mesa-bytes-d68a55e0.svg" alt="Bytes Colaborativos: proyectos reales en equipo, empresas buscando talento"/></a><a href="https://jorex.dev/#newsletter"><img src="img/mesa-fork-be5089e3.svg" alt="The Weekly Fork: newsletter semanal de desarrollo"/></a>
+  <a href="https://github.com/Jorexdev/java-prep"><img src="img/mesa-javaprep-acc06456.svg" alt="java-prep: 40 módulos para preparar tu entrevista técnica de backend en Java"/></a><a href="https://discord.gg/zsZqS7wxXU"><img src="img/mesa-bytes-312cd94e.svg" alt="Bytes Colaborativos: proyectos reales en equipo, empresas buscando talento"/></a><a href="https://jorex.dev/#newsletter"><img src="img/mesa-fork-19cee9ec.svg" alt="The Weekly Fork: newsletter semanal de desarrollo"/></a>
 </p>
 
 <p align="center">
-  <a href="mailto:jorgebp@jorex.dev"><img src="img/mesa-charlas-79ac51bb.svg" alt="Charlas: Self-Contained Systems en MadridJUG y mini-juegos de programación e IA en Codemotion Madrid 2026. Invítame a tu evento"/></a><a href="https://www.youtube.com/shorts/Abn6LWdFIVw"><img src="img/mesa-reel-b164a0b5.svg" alt="Último reel"/></a>
+  <a href="mailto:jorgebp@jorex.dev"><img src="img/mesa-charlas-fb494030.svg" alt="Charlas: Self-Contained Systems en MadridJUG y mini-juegos de programación e IA en Codemotion Madrid 2026. Invítame a tu evento"/></a><a href="https://www.youtube.com/shorts/Abn6LWdFIVw"><img src="img/mesa-reel-37e6ea0c.svg" alt="Último reel"/></a>
 </p>
 
 <p align="center">
